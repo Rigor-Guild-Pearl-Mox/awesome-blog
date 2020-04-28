@@ -62,3 +62,6 @@ $(document).on('submit', 'form[data-confirmation]', function (event) {
             .modal('show');
     }
 });
+
+// TODO: bla bla bla
+// TODO 2: bla bla bla
