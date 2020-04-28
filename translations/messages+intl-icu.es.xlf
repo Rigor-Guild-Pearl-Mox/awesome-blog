@@ -221,7 +221,7 @@
 
             <trans-unit id="menu.toggle_nav">
                 <source>menu.toggle_nav</source>
-                <target>Turnar navegación</target>
+                <target>Cambiar navegación</target>
             </trans-unit>
             <trans-unit id="menu.choose_language">
                 <source>menu.choose_language</source>
