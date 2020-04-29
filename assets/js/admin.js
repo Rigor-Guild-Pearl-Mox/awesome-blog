@@ -25,7 +25,7 @@ $(function() {
     // https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/
     const $input = $('input[data-toggle="tagsinput"]');
     if ($input.length) {
-        var source = new Bloodhound({
+        const source = new Bloodhound({
             local: $input.data('tags'),
             queryTokenizer: Bloodhound.tokenizers.whitespace,
             datumTokenizer: Bloodhound.tokenizers.whitespace
